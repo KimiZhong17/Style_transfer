@@ -1,2 +1,2 @@
 # Style_transfer
-Some works on style transfer topics
+This repo includes some implementations of style transfer papers.
